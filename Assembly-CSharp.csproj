@@ -57,19 +57,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\Scripts\TurnButton.cs" />
+    <Compile Include="Assets\Scripts\TurnButt.cs" />
     <Compile Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\Scripts\Car.cs" />
     <Compile Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\Scripts\CarSpawner.cs" />
     <Compile Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\Scripts\AccelerateButton.cs" />
+    <Compile Include="Assets\Scripts\AccelButton.cs" />
     <Compile Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\PlacementIndicator\PlacementIndicator.cs" />
     <Compile Include="Assets\Scripts\CarController.cs" />
-    <Compile Include="Assets\Scripts\AccelButton.cs" />
-    <Compile Include="Assets\Scripts\TurnButt.cs" />
+    <Compile Include="Assets\Scripts\CarSpawn.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\ProjectSettings\ProjectVersion.txt" />
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Shaders&apos;\Occlude.shader" />
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Imports\ARFoundationRemoteControlCar-ProjectFiles\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
